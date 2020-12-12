@@ -62,4 +62,4 @@ if __name__ == '__main__':
     assert sample_answer == calculated_sample_answer
     # test data
     calculated_answer = process_data_part_2(test_data)
-    print('Part 1: %i' % calculated_answer)
+    print('Part 2: %i' % calculated_answer)
